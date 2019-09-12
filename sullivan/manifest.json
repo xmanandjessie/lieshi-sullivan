@@ -1,0 +1,40 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/game/game.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/res/res.js",
+		"promise/promise.js"
+	],
+	"game": [
+		"bin-debug/pop/PopView.js",
+		"bin-debug/utils/GameDispatcher.js",
+		"bin-debug/comp/CustomButton.js",
+		"bin-debug/comp/CustomCheckBox.js",
+		"bin-debug/comp/CustomScrollView.js",
+		"bin-debug/comp/CustomTabbar.js",
+		"bin-debug/comp/CustomTabButton.js",
+		"bin-debug/comp/HtmlText.js",
+		"bin-debug/comp/QRCode.js",
+		"bin-debug/pop/PopManager.js",
+		"bin-debug/Main.js",
+		"bin-debug/utils/AudioManager.js",
+		"bin-debug/utils/CustomImage.js",
+		"bin-debug/utils/ErrorCode.js",
+		"bin-debug/UIManager.js",
+		"bin-debug/utils/Global.js",
+		"bin-debug/utils/Message.js",
+		"bin-debug/utils/StageUtils.js",
+		"bin-debug/view/DescPop.js",
+		"bin-debug/view/ErrorPop.js",
+		"bin-debug/view/SelfEndPop.js",
+		"bin-debug/view/SelfPop.js",
+		"bin-debug/view/ShareLandPop.js",
+		"bin-debug/view/SharePop.js",
+		"bin-debug/view/StartPop.js",
+		"bin-debug/view/item/DengItem.js",
+		"bin-debug/view/item/MapItem.js",
+		"bin-debug/view/item/RateItem.js"
+	]
+}

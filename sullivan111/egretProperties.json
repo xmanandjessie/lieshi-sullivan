@@ -1,0 +1,35 @@
+{
+  "native": {
+    "path_ignore": []
+  },
+  "publish": {
+    "web": 0,
+    "native": 1,
+    "path": "bin-release"
+  },
+  "egret_version": "5.0.14",
+  "template": {},
+  "modules": [
+    {
+      "name": "egret"
+    },
+    {
+      "name": "game"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name": "promise",
+      "path": "./promise"
+    },
+    {
+      "name": "ls",
+      "path": "./libs/ls.js"
+    },
+    {
+      "name": "jquery",
+      "path": "./libs/jquery.js"
+    }
+  ]
+}
